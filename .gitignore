@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ThinkBayes code examples
+ThinkBayes
+
 # C extensions
 *.so
 
